@@ -10,3 +10,20 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.WARNING {
+  cursor: pointer;
+  color: red;
+}
+
+.WARNING:hover {
+  text-decoration: underline;
+}
+
+#bear-showing {
+  display: none;
+}
+
+.img-small {
+  width: 450px;
+}
